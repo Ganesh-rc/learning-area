@@ -1,6 +1,7 @@
 const random = Math.floor((Math.random() * 100) + 1);
 // document.getElementById("target").innerHTML = random;
 // let event = document.getElementById("submit");
+console.log(random); // to check number in console
 let count = 1;
 let previous = "";
 function outp(){
